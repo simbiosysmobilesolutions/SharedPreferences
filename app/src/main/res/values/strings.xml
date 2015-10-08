@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActivityLevelsp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_shared_preferences_example">SharedPreferencesExample</string>
+    <string name="title_activity_retreive_shared_preferences">RetreiveSharedPreferences</string>
+</resources>
